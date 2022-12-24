@@ -1,0 +1,808 @@
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: disconnect"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: grab"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: join"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopqueue"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: Command Loaded: 247"}
+{"level":"info","message":"info: Command Loaded: clear"}
+{"level":"info","message":"info: Command Loaded: disconnect"}
+{"level":"info","message":"info: Command Loaded: filters"}
+{"level":"info","message":"info: Command Loaded: grab"}
+{"level":"info","message":"info: Command Loaded: help"}
+{"level":"info","message":"info: Command Loaded: invite"}
+{"level":"info","message":"info: Command Loaded: join"}
+{"level":"info","message":"info: Command Loaded: loop"}
+{"level":"info","message":"info: Command Loaded: loopqueue"}
+{"level":"info","message":"info: Command Loaded: lyrics"}
+{"level":"info","message":"info: Command Loaded: move"}
+{"level":"info","message":"info: Command Loaded: nowplaying"}
+{"level":"info","message":"info: Command Loaded: pause"}
+{"level":"info","message":"info: Command Loaded: play"}
+{"level":"info","message":"info: Command Loaded: prefix"}
+{"level":"info","message":"info: Command Loaded: previous"}
+{"level":"info","message":"info: Command Loaded: queue"}
+{"level":"info","message":"info: Command Loaded: remove"}
+{"level":"info","message":"info: Command Loaded: replay"}
+{"level":"info","message":"info: Command Loaded: resume"}
+{"level":"info","message":"info: Command Loaded: search"}
+{"level":"info","message":"info: Command Loaded: seek"}
+{"level":"info","message":"info: Command Loaded: shuffle"}
+{"level":"info","message":"info: Command Loaded: skip"}
+{"level":"info","message":"info: Command Loaded: skipto"}
+{"level":"info","message":"info: Command Loaded: stats"}
+{"level":"info","message":"info: Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: hi"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as urfavteddybot 3#9274"}
+{"level":"info","message":"info: Node: Losing time, Montreal. | Lavalink node is connected."}
+{"level":"info","message":"info: Database: MongoDB-01 | MongoDB is connected."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: disconnect"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: grab"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: join"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopqueue"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: hi"}
+{"level":"info","message":"info: Command Loaded: 247"}
+{"level":"info","message":"info: Command Loaded: clear"}
+{"level":"info","message":"info: Command Loaded: disconnect"}
+{"level":"info","message":"info: Command Loaded: filters"}
+{"level":"info","message":"info: Command Loaded: grab"}
+{"level":"info","message":"info: Command Loaded: help"}
+{"level":"info","message":"info: Command Loaded: invite"}
+{"level":"info","message":"info: Command Loaded: join"}
+{"level":"info","message":"info: Command Loaded: loop"}
+{"level":"info","message":"info: Command Loaded: loopqueue"}
+{"level":"info","message":"info: Command Loaded: lyrics"}
+{"level":"info","message":"info: Command Loaded: move"}
+{"level":"info","message":"info: Command Loaded: nowplaying"}
+{"level":"info","message":"info: Command Loaded: pause"}
+{"level":"info","message":"info: Command Loaded: play"}
+{"level":"info","message":"info: Command Loaded: prefix"}
+{"level":"info","message":"info: Command Loaded: previous"}
+{"level":"info","message":"info: Command Loaded: queue"}
+{"level":"info","message":"info: Command Loaded: remove"}
+{"level":"info","message":"info: Command Loaded: replay"}
+{"level":"info","message":"info: Command Loaded: resume"}
+{"level":"info","message":"info: Command Loaded: search"}
+{"level":"info","message":"info: Command Loaded: seek"}
+{"level":"info","message":"info: Command Loaded: shuffle"}
+{"level":"info","message":"info: Command Loaded: skip"}
+{"level":"info","message":"info: Command Loaded: skipto"}
+{"level":"info","message":"info: Command Loaded: stats"}
+{"level":"info","message":"info: Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as urfavteddybot 3#9274"}
+{"level":"info","message":"info: Node: Losing time, Montreal. | Lavalink node is connected."}
+{"level":"info","message":"info: Database: MongoDB-01 | MongoDB is connected."}
+{"level":"warn","message":"warn: Player: 963998893538967602 | A wild player has been created in jj"}
+{"level":"warn","message":"warn: Player: 963998893538967602 | Track has been started playing [\u001b[34mYoung Thug, Future - Relationship (Lyrics) | I know how to make the girl go crazy\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 963998893538967602 | Track has been started playing [\u001b[34mSZA x Calvin Harris - The Weekend (Funk Wav Remix )(Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 963998893538967602 | Track has been started playing [\u001b[34mI Like You So Much, You'll Know It\u001b[39m]"}
+{"level":"warn","message":"warn: Track has an error: This video is not available"}
+{"level":"warn","message":"warn: Player: 963998893538967602 | Track has been started playing [\u001b[34mCalboy - Envy Me (Official Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 963998893538967602 | Track has been started playing [\u001b[34mBebe Rexha - Meant To Be (Lyrics) ft. Florida Georgia Line\u001b[39m]"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: disconnect"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: grab"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: join"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopqueue"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: Command Loaded: 247"}
+{"level":"info","message":"info: Command Loaded: clear"}
+{"level":"info","message":"info: Command Loaded: disconnect"}
+{"level":"info","message":"info: Command Loaded: filters"}
+{"level":"info","message":"info: Command Loaded: grab"}
+{"level":"info","message":"info: Command Loaded: help"}
+{"level":"info","message":"info: Command Loaded: invite"}
+{"level":"info","message":"info: Command Loaded: join"}
+{"level":"info","message":"info: Command Loaded: loop"}
+{"level":"info","message":"info: Command Loaded: loopqueue"}
+{"level":"info","message":"info: Command Loaded: lyrics"}
+{"level":"info","message":"info: Command Loaded: move"}
+{"level":"info","message":"info: Command Loaded: nowplaying"}
+{"level":"info","message":"info: Command Loaded: pause"}
+{"level":"info","message":"info: Command Loaded: play"}
+{"level":"info","message":"info: Command Loaded: prefix"}
+{"level":"info","message":"info: Command Loaded: previous"}
+{"level":"info","message":"info: Command Loaded: queue"}
+{"level":"info","message":"info: Command Loaded: remove"}
+{"level":"info","message":"info: Command Loaded: replay"}
+{"level":"info","message":"info: Command Loaded: resume"}
+{"level":"info","message":"info: Command Loaded: search"}
+{"level":"info","message":"info: Command Loaded: seek"}
+{"level":"info","message":"info: Command Loaded: shuffle"}
+{"level":"info","message":"info: Command Loaded: skip"}
+{"level":"info","message":"info: Command Loaded: skipto"}
+{"level":"info","message":"info: Command Loaded: stats"}
+{"level":"info","message":"info: Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: hi"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as urfavteddybot 3#9274"}
+{"level":"info","message":"info: Node: Losing time, Montreal. | Lavalink node is connected."}
+{"level":"info","message":"info: Database: MongoDB-01 | MongoDB is connected."}
+{"level":"warn","message":"warn: Player: 963998893538967602 | A wild player has been created in jj"}
+{"level":"warn","message":"warn: Player: 963998893538967602 | Track has been started playing [\u001b[34mYoung Thug, Future - Relationship (Lyrics) | I know how to make the girl go crazy\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 963998893538967602 | Track has been started playing [\u001b[34mSZA x Calvin Harris - The Weekend (Funk Wav Remix )(Lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 963998893538967602 | Track has been started playing [\u001b[34mSurfaces - Sunday Best (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 963998893538967602 | Track has been started playing [\u001b[34m지코 (ZICO) - 아무노래 (Any song) 안무연습영상｜Dance Practice\u001b[39m]"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: disconnect"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: grab"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: join"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopqueue"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: Command Loaded: 247"}
+{"level":"info","message":"info: Command Loaded: clear"}
+{"level":"info","message":"info: Command Loaded: disconnect"}
+{"level":"info","message":"info: Command Loaded: filters"}
+{"level":"info","message":"info: Command Loaded: grab"}
+{"level":"info","message":"info: Command Loaded: help"}
+{"level":"info","message":"info: Command Loaded: invite"}
+{"level":"info","message":"info: Command Loaded: join"}
+{"level":"info","message":"info: Command Loaded: loop"}
+{"level":"info","message":"info: Command Loaded: loopqueue"}
+{"level":"info","message":"info: Command Loaded: lyrics"}
+{"level":"info","message":"info: Command Loaded: move"}
+{"level":"info","message":"info: Command Loaded: nowplaying"}
+{"level":"info","message":"info: Command Loaded: pause"}
+{"level":"info","message":"info: Command Loaded: play"}
+{"level":"info","message":"info: Command Loaded: prefix"}
+{"level":"info","message":"info: Command Loaded: previous"}
+{"level":"info","message":"info: Command Loaded: queue"}
+{"level":"info","message":"info: Command Loaded: remove"}
+{"level":"info","message":"info: Command Loaded: replay"}
+{"level":"info","message":"info: Command Loaded: resume"}
+{"level":"info","message":"info: Command Loaded: search"}
+{"level":"info","message":"info: Command Loaded: seek"}
+{"level":"info","message":"info: Command Loaded: shuffle"}
+{"level":"info","message":"info: Command Loaded: skip"}
+{"level":"info","message":"info: Command Loaded: skipto"}
+{"level":"info","message":"info: Command Loaded: stats"}
+{"level":"info","message":"info: Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: hi"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as urfavteddybot 3#9274"}
+{"level":"info","message":"info: Database: MongoDB-01 | MongoDB is connected."}
+{"level":"info","message":"info: Node: Losing time, Montreal. | Lavalink node is connected."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: disconnect"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: grab"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: join"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopqueue"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: hi"}
+{"level":"info","message":"info: Command Loaded: 247"}
+{"level":"info","message":"info: Command Loaded: clear"}
+{"level":"info","message":"info: Command Loaded: disconnect"}
+{"level":"info","message":"info: Command Loaded: filters"}
+{"level":"info","message":"info: Command Loaded: grab"}
+{"level":"info","message":"info: Command Loaded: help"}
+{"level":"info","message":"info: Command Loaded: invite"}
+{"level":"info","message":"info: Command Loaded: join"}
+{"level":"info","message":"info: Command Loaded: loop"}
+{"level":"info","message":"info: Command Loaded: loopqueue"}
+{"level":"info","message":"info: Command Loaded: lyrics"}
+{"level":"info","message":"info: Command Loaded: move"}
+{"level":"info","message":"info: Command Loaded: nowplaying"}
+{"level":"info","message":"info: Command Loaded: pause"}
+{"level":"info","message":"info: Command Loaded: play"}
+{"level":"info","message":"info: Command Loaded: prefix"}
+{"level":"info","message":"info: Command Loaded: previous"}
+{"level":"info","message":"info: Command Loaded: queue"}
+{"level":"info","message":"info: Command Loaded: remove"}
+{"level":"info","message":"info: Command Loaded: replay"}
+{"level":"info","message":"info: Command Loaded: resume"}
+{"level":"info","message":"info: Command Loaded: search"}
+{"level":"info","message":"info: Command Loaded: seek"}
+{"level":"info","message":"info: Command Loaded: shuffle"}
+{"level":"info","message":"info: Command Loaded: skip"}
+{"level":"info","message":"info: Command Loaded: skipto"}
+{"level":"info","message":"info: Command Loaded: stats"}
+{"level":"info","message":"info: Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as urfavteddybot 3#9274"}
+{"level":"info","message":"info: Node: Losing time, Montreal. | Lavalink node is connected."}
+{"level":"info","message":"info: Database: MongoDB-01 | MongoDB is connected."}
+{"level":"warn","message":"warn: Player: 843367849963421708 | A wild player has been created in asdsahjd"}
+{"level":"warn","message":"warn: Player: 843367849963421708 | Track has been started playing [\u001b[34mOne Direction - Strong (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 843367849963421708 | Queue has been ended"}
+{"level":"warn","message":"warn: Player: 843367849963421708 | A wild player has been destroyed in asdsahjd"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: disconnect"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: grab"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: join"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopqueue"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: Command Loaded: 247"}
+{"level":"info","message":"info: Command Loaded: clear"}
+{"level":"info","message":"info: Command Loaded: disconnect"}
+{"level":"info","message":"info: Command Loaded: filters"}
+{"level":"info","message":"info: Command Loaded: grab"}
+{"level":"info","message":"info: Command Loaded: help"}
+{"level":"info","message":"info: Command Loaded: invite"}
+{"level":"info","message":"info: Command Loaded: join"}
+{"level":"info","message":"info: Command Loaded: loop"}
+{"level":"info","message":"info: Command Loaded: loopqueue"}
+{"level":"info","message":"info: Command Loaded: lyrics"}
+{"level":"info","message":"info: Command Loaded: move"}
+{"level":"info","message":"info: Command Loaded: nowplaying"}
+{"level":"info","message":"info: Command Loaded: pause"}
+{"level":"info","message":"info: Command Loaded: play"}
+{"level":"info","message":"info: Command Loaded: prefix"}
+{"level":"info","message":"info: Command Loaded: previous"}
+{"level":"info","message":"info: Command Loaded: queue"}
+{"level":"info","message":"info: Command Loaded: remove"}
+{"level":"info","message":"info: Command Loaded: replay"}
+{"level":"info","message":"info: Command Loaded: resume"}
+{"level":"info","message":"info: Command Loaded: search"}
+{"level":"info","message":"info: Command Loaded: seek"}
+{"level":"info","message":"info: Command Loaded: shuffle"}
+{"level":"info","message":"info: Command Loaded: skip"}
+{"level":"info","message":"info: Command Loaded: skipto"}
+{"level":"info","message":"info: Command Loaded: stats"}
+{"level":"info","message":"info: Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: hi"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as urfavteddybot 3#9274"}
+{"level":"info","message":"info: Node: Losing time, Montreal. | Lavalink node is connected."}
+{"level":"info","message":"info: Database: MongoDB-01 | MongoDB is connected."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: disconnect"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: grab"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: join"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopqueue"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: Command Loaded: 247"}
+{"level":"info","message":"info: Command Loaded: clear"}
+{"level":"info","message":"info: Command Loaded: disconnect"}
+{"level":"info","message":"info: Command Loaded: filters"}
+{"level":"info","message":"info: Command Loaded: grab"}
+{"level":"info","message":"info: Command Loaded: help"}
+{"level":"info","message":"info: Command Loaded: invite"}
+{"level":"info","message":"info: Command Loaded: join"}
+{"level":"info","message":"info: Command Loaded: loop"}
+{"level":"info","message":"info: Command Loaded: loopqueue"}
+{"level":"info","message":"info: Command Loaded: lyrics"}
+{"level":"info","message":"info: Command Loaded: move"}
+{"level":"info","message":"info: Command Loaded: nowplaying"}
+{"level":"info","message":"info: Command Loaded: pause"}
+{"level":"info","message":"info: Command Loaded: play"}
+{"level":"info","message":"info: Command Loaded: prefix"}
+{"level":"info","message":"info: Command Loaded: previous"}
+{"level":"info","message":"info: Command Loaded: queue"}
+{"level":"info","message":"info: Command Loaded: remove"}
+{"level":"info","message":"info: Command Loaded: replay"}
+{"level":"info","message":"info: Command Loaded: resume"}
+{"level":"info","message":"info: Command Loaded: search"}
+{"level":"info","message":"info: Command Loaded: seek"}
+{"level":"info","message":"info: Command Loaded: shuffle"}
+{"level":"info","message":"info: Command Loaded: skip"}
+{"level":"info","message":"info: Command Loaded: skipto"}
+{"level":"info","message":"info: Command Loaded: stats"}
+{"level":"info","message":"info: Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: hi"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as urfavteddybot 3#9274"}
+{"level":"info","message":"info: Node: Losing time, Montreal. | Lavalink node is connected."}
+{"level":"info","message":"info: Database: MongoDB-01 | MongoDB is connected."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: disconnect"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: grab"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: join"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopqueue"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: Command Loaded: 247"}
+{"level":"info","message":"info: Command Loaded: clear"}
+{"level":"info","message":"info: Command Loaded: disconnect"}
+{"level":"info","message":"info: Command Loaded: filters"}
+{"level":"info","message":"info: Command Loaded: grab"}
+{"level":"info","message":"info: Command Loaded: help"}
+{"level":"info","message":"info: Command Loaded: invite"}
+{"level":"info","message":"info: Command Loaded: join"}
+{"level":"info","message":"info: Command Loaded: loop"}
+{"level":"info","message":"info: Command Loaded: loopqueue"}
+{"level":"info","message":"info: Command Loaded: lyrics"}
+{"level":"info","message":"info: Command Loaded: move"}
+{"level":"info","message":"info: Command Loaded: nowplaying"}
+{"level":"info","message":"info: Command Loaded: pause"}
+{"level":"info","message":"info: Command Loaded: play"}
+{"level":"info","message":"info: Command Loaded: prefix"}
+{"level":"info","message":"info: Command Loaded: previous"}
+{"level":"info","message":"info: Command Loaded: queue"}
+{"level":"info","message":"info: Command Loaded: remove"}
+{"level":"info","message":"info: Command Loaded: replay"}
+{"level":"info","message":"info: Command Loaded: resume"}
+{"level":"info","message":"info: Command Loaded: search"}
+{"level":"info","message":"info: Command Loaded: seek"}
+{"level":"info","message":"info: Command Loaded: shuffle"}
+{"level":"info","message":"info: Command Loaded: skip"}
+{"level":"info","message":"info: Command Loaded: skipto"}
+{"level":"info","message":"info: Command Loaded: stats"}
+{"level":"info","message":"info: Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: hi"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as urfavteddybot 3#9274"}
+{"level":"info","message":"info: Node: Losing time, Montreal. | Lavalink node is connected."}
+{"level":"info","message":"info: Database: MongoDB-01 | MongoDB is connected."}
+{"level":"warn","message":"warn: Player: 843367849963421708 | A wild player has been created in asdsahjd"}
+{"level":"warn","message":"warn: Player: 843367849963421708 | Track has been started playing [\u001b[34mRuth B. - Dandelions (Audio)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 843367849963421708 | Track has been started playing [\u001b[34mGlass Animals - Heat Waves (Official Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 843367849963421708 | Track has been started playing [\u001b[34mRicky Montgomery - Line Without a Hook (Official Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 843367849963421708 | Track has been started playing [\u001b[34mSeafret - Atlantis (lyrics)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 843367849963421708 | Track has been started playing [\u001b[34mTULUS - Interaksi (Official Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 843367849963421708 | Track has been started playing [\u001b[34mTULUS - Diri (Official Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 843367849963421708 | Track has been started playing [\u001b[34mTULUS - Hati-Hati di Jalan (Official Lyric Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 843367849963421708 | Track has been started playing [\u001b[34mvaultboy - everything sucks (Official Music Video)\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 843367849963421708 | Track has been started playing [\u001b[34mKaty Perry - Unconditionally (Official)\u001b[39m]"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: disconnect"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: grab"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: join"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopqueue"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: Command Loaded: 247"}
+{"level":"info","message":"info: Command Loaded: clear"}
+{"level":"info","message":"info: Command Loaded: disconnect"}
+{"level":"info","message":"info: Command Loaded: filters"}
+{"level":"info","message":"info: Command Loaded: grab"}
+{"level":"info","message":"info: Command Loaded: help"}
+{"level":"info","message":"info: Command Loaded: invite"}
+{"level":"info","message":"info: Command Loaded: join"}
+{"level":"info","message":"info: Command Loaded: loop"}
+{"level":"info","message":"info: Command Loaded: loopqueue"}
+{"level":"info","message":"info: Command Loaded: lyrics"}
+{"level":"info","message":"info: Command Loaded: move"}
+{"level":"info","message":"info: Command Loaded: nowplaying"}
+{"level":"info","message":"info: Command Loaded: pause"}
+{"level":"info","message":"info: Command Loaded: play"}
+{"level":"info","message":"info: Command Loaded: prefix"}
+{"level":"info","message":"info: Command Loaded: previous"}
+{"level":"info","message":"info: Command Loaded: queue"}
+{"level":"info","message":"info: Command Loaded: remove"}
+{"level":"info","message":"info: Command Loaded: replay"}
+{"level":"info","message":"info: Command Loaded: resume"}
+{"level":"info","message":"info: Command Loaded: search"}
+{"level":"info","message":"info: Command Loaded: seek"}
+{"level":"info","message":"info: Command Loaded: shuffle"}
+{"level":"info","message":"info: Command Loaded: skip"}
+{"level":"info","message":"info: Command Loaded: skipto"}
+{"level":"info","message":"info: Command Loaded: stats"}
+{"level":"info","message":"info: Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: hi"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as urfavteddybot 3#9274"}
+{"level":"info","message":"info: Node: Losing time, Montreal. | Lavalink node is connected."}
+{"level":"info","message":"info: Database: MongoDB-01 | MongoDB is connected."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: disconnect"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: grab"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: join"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopqueue"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: Command Loaded: 247"}
+{"level":"info","message":"info: Command Loaded: clear"}
+{"level":"info","message":"info: Command Loaded: disconnect"}
+{"level":"info","message":"info: Command Loaded: filters"}
+{"level":"info","message":"info: Command Loaded: grab"}
+{"level":"info","message":"info: Command Loaded: help"}
+{"level":"info","message":"info: Command Loaded: invite"}
+{"level":"info","message":"info: Command Loaded: join"}
+{"level":"info","message":"info: Command Loaded: loop"}
+{"level":"info","message":"info: Command Loaded: loopqueue"}
+{"level":"info","message":"info: Command Loaded: lyrics"}
+{"level":"info","message":"info: Command Loaded: move"}
+{"level":"info","message":"info: Command Loaded: nowplaying"}
+{"level":"info","message":"info: Command Loaded: pause"}
+{"level":"info","message":"info: Command Loaded: play"}
+{"level":"info","message":"info: Command Loaded: prefix"}
+{"level":"info","message":"info: Command Loaded: previous"}
+{"level":"info","message":"info: Command Loaded: queue"}
+{"level":"info","message":"info: Command Loaded: remove"}
+{"level":"info","message":"info: Command Loaded: replay"}
+{"level":"info","message":"info: Command Loaded: resume"}
+{"level":"info","message":"info: Command Loaded: search"}
+{"level":"info","message":"info: Command Loaded: seek"}
+{"level":"info","message":"info: Command Loaded: shuffle"}
+{"level":"info","message":"info: Command Loaded: skip"}
+{"level":"info","message":"info: Command Loaded: skipto"}
+{"level":"info","message":"info: Command Loaded: stats"}
+{"level":"info","message":"info: Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: hi"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as urfavteddybot 3#9274"}
+{"level":"info","message":"info: Node: Losing time, Montreal. | Lavalink node is connected."}
+{"level":"info","message":"info: Database: MongoDB-01 | MongoDB is connected."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: disconnect"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: grab"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: join"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopqueue"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: Command Loaded: 247"}
+{"level":"info","message":"info: Command Loaded: clear"}
+{"level":"info","message":"info: Command Loaded: disconnect"}
+{"level":"info","message":"info: Command Loaded: filters"}
+{"level":"info","message":"info: Command Loaded: grab"}
+{"level":"info","message":"info: Command Loaded: help"}
+{"level":"info","message":"info: Command Loaded: invite"}
+{"level":"info","message":"info: Command Loaded: join"}
+{"level":"info","message":"info: Command Loaded: loop"}
+{"level":"info","message":"info: Command Loaded: loopqueue"}
+{"level":"info","message":"info: Command Loaded: lyrics"}
+{"level":"info","message":"info: Command Loaded: move"}
+{"level":"info","message":"info: Command Loaded: nowplaying"}
+{"level":"info","message":"info: Command Loaded: pause"}
+{"level":"info","message":"info: Command Loaded: play"}
+{"level":"info","message":"info: Command Loaded: prefix"}
+{"level":"info","message":"info: Command Loaded: previous"}
+{"level":"info","message":"info: Command Loaded: queue"}
+{"level":"info","message":"info: Command Loaded: remove"}
+{"level":"info","message":"info: Command Loaded: replay"}
+{"level":"info","message":"info: Command Loaded: resume"}
+{"level":"info","message":"info: Command Loaded: search"}
+{"level":"info","message":"info: Command Loaded: seek"}
+{"level":"info","message":"info: Command Loaded: shuffle"}
+{"level":"info","message":"info: Command Loaded: skip"}
+{"level":"info","message":"info: Command Loaded: skipto"}
+{"level":"info","message":"info: Command Loaded: stats"}
+{"level":"info","message":"info: Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: ContextMenu Loaded: hi"}
+{"level":"info","message":"info: Successfully Logged in as urfavteddybot 3#9274"}
+{"level":"info","message":"info: Node: Losing time, Montreal. | Lavalink node is connected."}
+{"level":"info","message":"info: Database: MongoDB-01 | MongoDB is connected."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: disconnect"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: grab"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: join"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopqueue"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: Command Loaded: 247"}
+{"level":"info","message":"info: Command Loaded: clear"}
+{"level":"info","message":"info: Command Loaded: disconnect"}
+{"level":"info","message":"info: Command Loaded: filters"}
+{"level":"info","message":"info: Command Loaded: grab"}
+{"level":"info","message":"info: Command Loaded: help"}
+{"level":"info","message":"info: Command Loaded: invite"}
+{"level":"info","message":"info: Command Loaded: join"}
+{"level":"info","message":"info: Command Loaded: loop"}
+{"level":"info","message":"info: Command Loaded: loopqueue"}
+{"level":"info","message":"info: Command Loaded: lyrics"}
+{"level":"info","message":"info: Command Loaded: move"}
+{"level":"info","message":"info: Command Loaded: nowplaying"}
+{"level":"info","message":"info: Command Loaded: pause"}
+{"level":"info","message":"info: Command Loaded: play"}
+{"level":"info","message":"info: Command Loaded: prefix"}
+{"level":"info","message":"info: Command Loaded: previous"}
+{"level":"info","message":"info: Command Loaded: queue"}
+{"level":"info","message":"info: Command Loaded: remove"}
+{"level":"info","message":"info: Command Loaded: replay"}
+{"level":"info","message":"info: Command Loaded: resume"}
+{"level":"info","message":"info: Command Loaded: search"}
+{"level":"info","message":"info: Command Loaded: seek"}
+{"level":"info","message":"info: Command Loaded: shuffle"}
+{"level":"info","message":"info: Command Loaded: skip"}
+{"level":"info","message":"info: Command Loaded: skipto"}
+{"level":"info","message":"info: Command Loaded: stats"}
+{"level":"info","message":"info: Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: hi"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as urfavteddybot 3#9274"}
+{"level":"info","message":"info: Node: Losing time, Montreal. | Lavalink node is connected."}
+{"level":"info","message":"info: Database: MongoDB-01 | MongoDB is connected."}
+{"level":"warn","message":"warn: Player: 963998893538967602 | A wild player has been created in jj"}
+{"level":"warn","message":"warn: Player: 963998893538967602 | Track has been started playing [\u001b[34mCoffee Coding Beats ☕ Coding Lofi Mix ~ Beats to relax / study to\u001b[39m]"}
